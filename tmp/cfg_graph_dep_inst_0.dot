@@ -1,0 +1,4 @@
+digraph G1 {
+node [shape = box];
+BB1 [label = ""] ;
+BB1 -> BB8 [style = filled, label = ""];
